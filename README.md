@@ -1,4 +1,8 @@
-## Hi there 👋
+e-Carabas
+(he/him)
+- 🎡 OS enthusiast
+- 🐒 Digital Humanities Student
+- 🪐 Moving myy first steps in the coding world
 
 <!--
 **e-Carabas/e-Carabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
